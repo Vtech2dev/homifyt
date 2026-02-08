@@ -1,0 +1,1 @@
+<?php echo json_encode(["ok"=>true,"service"=>"homify_ap1"]);
