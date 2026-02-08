@@ -4,7 +4,7 @@ return [
   "db" => [
     "host" => "sql200.infinityfree.com",
     "user" => "if0_41080480",
-    "pass" => "CHANGE_ME",
+    "pass" => "Chapati455",
     "name" => "if0_41080480_barbershop_db",
     "port" => 3306
   ],
